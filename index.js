@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         视频遮幕器
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  添加遮幕，可以设置幕布大小、颜色、关闭按钮
 // @author       LiChenYi
 // @match        *//*.youku.com/*

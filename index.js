@@ -52,8 +52,8 @@ function AddMenu() {
     // 获取视频元素
 
     let intervalId = setInterval(function () {
-        const videoElement = document.querySelector('video');
-
+        let videoElement = document.querySelector('video');
+console.log(videoElement)
         // 如果获取到了视频元素，则停止循环检查
         if (videoElement) {
             clearInterval(intervalId);

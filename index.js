@@ -2,14 +2,15 @@
 // @name         视频遮幕器
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  try to take over the world!
-// @author       You
+// @description  添加遮幕，可以设置幕布大小、颜色、关闭按钮
+// @author       LiChenYi
 // @match        *//*.youku.com/*
 // @match        *//*.iqiyi.com/*
 // @match        *//*.qq.com/*
 // @match        *//*.bilibili.com/*
 // @icon         https://alohahija-cdn.oss-cn-shanghai.aliyuncs.com/img/modal.png
 // @grant        GM_addStyle
+// @license MIT
 // ==/UserScript==
 
 (function() {
